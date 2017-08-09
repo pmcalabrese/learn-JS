@@ -1,0 +1,1 @@
+// Create an object (must have 3 keys 'first' 'second' 'third') with 3 arrays, which the first contains 10 numbers divisible by 2, the second 10 numbers divisibile by 3 and the third 10 numbers divisable by 4, not necessarly in the right order;
